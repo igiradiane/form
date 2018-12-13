@@ -1,0 +1,12 @@
+C:\Users\Kib D\source\repos\menus\menus\bin\Debug\menus.exe.config
+C:\Users\Kib D\source\repos\menus\menus\bin\Debug\menus.exe
+C:\Users\Kib D\source\repos\menus\menus\bin\Debug\menus.pdb
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.csprojAssemblyReference.cache
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.Form1.resources
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.Properties.Resources.resources
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.csproj.GenerateResource.cache
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.csproj.CoreCompileInputs.cache
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.exe
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.pdb
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.Form2.resources
+C:\Users\Kib D\source\repos\menus\menus\obj\Debug\menus.Form3.resources
